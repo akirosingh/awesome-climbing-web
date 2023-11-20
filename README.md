@@ -6,6 +6,8 @@ Curating a list of useful climbing web resources
 
 [Mountain Project](https://www.mountainproject.com/) - A climbing app for info on climbs and online forum
 
+[Mountain Project Send Pyramid](https://chromewebstore.google.com/detail/mountain-project-send-pyr/fdnfbapicfkfkplchkelkecchbcniaie) - Chrome extension to view your send pyramid from Mountain Project ticks
+
 [8a.nu](https://www.8a.nu/) - An online ticklist and community for routes and boulders
 
 [sendage](https://sendage.com/) - An online ticklist and community for rutes and boulders
