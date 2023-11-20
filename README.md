@@ -51,7 +51,9 @@ Curating a list of useful climbing web resources
 
 ## Competition Climbing
 
-# Improvements
+[AscentStats](https://ascentstats.com/competition-climbing/) - ELO scores for IFSC competition boulderers
+
+# Improving your climbing
 
 ## Logbook
 
