@@ -38,6 +38,14 @@ Curating a list of useful climbing web resources
 
 ## Trad Climbing
 
+## Non-profits
+
+[Access Fund](https://www.accessfund.org/) - Largest climbing non-profit geared towards securing outdoor climbing access in at-risk areas
+
+[American Safe Climbing Association](https://safeclimbing.org/) - Organization devoted to improving hardware safety at outdoor climbing areas
+
+[Climbing for Change](https://www.climbing4change.org/) - Making connections and uplifting underserved minorities within the outdoor industry 
+
 # Indoor
 
 ## Board Climbing
@@ -56,6 +64,14 @@ Curating a list of useful climbing web resources
 ## Competition Climbing
 
 [AscentStats](https://ascentstats.com/competition-climbing/) - ELO scores for IFSC competition boulderers
+
+[IFSC Results](https://ifsc.results.info/) - Live results for IFSC sanctioned competitions
+
+[r/CompetitionClimbing](https://www.reddit.com/r/CompetitionClimbing/) - Active subreddit for competition discussion
+
+## Industry News
+
+[Climbing Business Journal](https://www.climbingbusinessjournal.com/) - Indoor climbing industry news
 
 # Improving your climbing
 
