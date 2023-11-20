@@ -38,6 +38,14 @@ Curating a list of useful climbing web resources
 
 ## Trad Climbing
 
+## Non-profits
+
+[Access Fund](https://www.accessfund.org/) - Largest climbing non-profit geared towards securing outdoor climbing access in at-risk areas
+
+[American Safe Climbing Association](https://safeclimbing.org/) - Organization devoted to improving hardware safety at outdoor climbing areas
+
+[Climbing for Change](https://www.climbing4change.org/about) - Making connections and uplifting underserved minorities within the outdoor industry 
+
 # Indoor
 
 ## Board Climbing
