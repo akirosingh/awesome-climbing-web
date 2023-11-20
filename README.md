@@ -57,6 +57,14 @@ Curating a list of useful climbing web resources
 
 [AscentStats](https://ascentstats.com/competition-climbing/) - ELO scores for IFSC competition boulderers
 
+[IFSC Results](https://ifsc.results.info/) - Live results for IFSC sanctioned competitions
+
+[r/CompetitionClimbing](https://www.reddit.com/r/CompetitionClimbing/) - Active subreddit for competition discussion
+
+## Industry News
+
+[Climbing Business Journal](https://www.climbingbusinessjournal.com/) - Indoor climbing industry news
+
 # Improving your climbing
 
 ## Logbook
