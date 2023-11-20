@@ -3,9 +3,12 @@
 Curating a list of useful climbing web resources
 
 # Outdoor 
-[8a.nu](https://www.8a.nu/) - An online ticklist and community
 
-[sendage](https://sendage.com/) - An online ticklist and community
+[Mountain Project](https://www.mountainproject.com/) - A climbing app for info on climbs and online forum
+
+[8a.nu](https://www.8a.nu/) - An online ticklist and community for routes and boulders
+
+[sendage](https://sendage.com/) - An online ticklist and community for rutes and boulders
 
 [Darth Grader](https://darth-grader.net/) - A tool to help with grading routes or boulders
 
@@ -18,7 +21,6 @@ Curating a list of useful climbing web resources
 
 
 ## Bouldering
-[Mountain Project](https://www.mountainproject.com/) - A climbing app for info on climbs and online forum
 
 [Kaya](https://kayaclimb.com/) - A climbing app for guidebooks, climbing beta, and climbing community
 
