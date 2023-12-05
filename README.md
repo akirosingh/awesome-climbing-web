@@ -91,6 +91,8 @@ Curating a list of useful climbing web/app resources
 
 ## Logbook
 
+[crimpd app](https://www.crimpd.com/) A workout app to create traning plans and track progression
+
 [climbharder Training log](https://docs.google.com/spreadsheets/d/18hoZb5ZopO8P18SxIiz6seronM6kCGDoqss0trYo6Ms/edit#gid=1881188582) Google Sheets based comprehensive training logbook that can be copied and used as a personal log. Click 'File', then 'copy' and save it to your drive. Created by /u/D_mucli
 
 ## Video Analysis
