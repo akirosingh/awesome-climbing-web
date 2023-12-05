@@ -1,6 +1,10 @@
 # awesome-climbing
 
-Curating a list of useful climbing web resources
+Curating a list of useful climbing web/app resources
+
+# Climbing Shoes
+
+[Size Squirrel](https://sizesquirrel.com/) - A website to compare shoe sizes across different climbing brands
 
 # Outdoor 
 
@@ -9,6 +13,12 @@ Curating a list of useful climbing web resources
 [Mountain Project Send Pyramid](https://chromewebstore.google.com/detail/mountain-project-send-pyr/fdnfbapicfkfkplchkelkecchbcniaie) - Chrome extension to view your send pyramid from Mountain Project ticks
 
 [8a.nu](https://www.8a.nu/) - An online ticklist and community for routes and boulders
+
+[8a.nu height](https://chromewebstore.google.com/detail/8anu-height/oialkklcgchchhobefifjfpgbkcnhhna) - A chrome extension that fills height information on routes and boulders
+
+[BetaBlock](https://chromewebstore.google.com/detail/betablock/mahobpgiehopfjpgnbaabebmnimbcfdg) - A chrome extension that censors tick notes, and descriptions on mountain project and 8a.nu so you can browse without spoiling an onsight
+
+[Hard Climbs](https://hardclimbs.info/) - A website that tells the stories of the most difficult routes and boulders in the world
 
 [sendage](https://sendage.com/) - An online ticklist and community for rutes and boulders
 
@@ -20,7 +30,9 @@ Curating a list of useful climbing web resources
 
 [wetrockpolice](https://wetrockpolice.com/redrock) - A site that records precipitation data in sandstone areas
 
+[Shademap.app](https://shademap.app/) - A map that shows sunangles at different times of day
 
+[Sendex.report](https://sendex.report/) - A web app that shows weather conditions in the red river gorge
 
 ## Bouldering
 
@@ -69,9 +81,6 @@ Curating a list of useful climbing web resources
 
 [BetaHangtime](https://betahangtime.askadam.me) - A web app to annotate hangtime on climbing videos
 
-# Coding Projects
-
-[Recommendation system](https://github.com/Colley-K/rock_climbing_recommendation_system)
 
 
 
