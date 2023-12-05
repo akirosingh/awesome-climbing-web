@@ -62,6 +62,8 @@ Curating a list of useful climbing web/app resources
 
 ## Board Climbing
 
+[Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (tension/kilter/grasshopper etc.) 
+
 ### Moonboard
 
 [BoardStalker](https://boardstalker.com/) - Moonboard leaderboards
