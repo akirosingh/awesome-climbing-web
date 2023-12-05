@@ -18,6 +18,8 @@ Curating a list of useful climbing web/app resources
 
 [BetaBlock](https://chromewebstore.google.com/detail/betablock/mahobpgiehopfjpgnbaabebmnimbcfdg) - A chrome extension that censors tick notes, and descriptions on mountain project and 8a.nu so you can browse without spoiling an onsight
 
+[Canireachthat.com](https://canireachthat.com) - A database of climbers of different heights and ape index to find people to follow that make beta video content.
+
 [Hard Climbs](https://hardclimbs.info/) - A website that tells the stories of the most difficult routes and boulders in the world
 
 [sendage](https://sendage.com/) - An online ticklist and community for rutes and boulders
@@ -40,7 +42,7 @@ Curating a list of useful climbing web/app resources
 
 [JustBeta](https://www.justbeta.net/) - An aggregator site for climbing boulders
 
-[Canireachthat.com](https://canireachthat.com) - A database of climbers of different heights and ape index to find people to follow that make beta video content.
+[top100.dev](https://top100.dev/) - Eric Jerome's site for ranking to top 100 boulders in double digit and single digit range
 
 [Find boulders](https://github.com/pszemraj/BoulderAreaDetector) - A project to find boulders from satellite photos
 
