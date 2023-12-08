@@ -12,6 +12,8 @@ Curating a list of useful climbing web/app resources
 
 [Mountain Project Send Pyramid](https://chromewebstore.google.com/detail/mountain-project-send-pyr/fdnfbapicfkfkplchkelkecchbcniaie) - Chrome extension to view your send pyramid from Mountain Project ticks
 
+[theCrag](thecrag.com) - A collaborative climbing website for boulders and routes
+
 [8a.nu](https://www.8a.nu/) - An online ticklist and community for routes and boulders
 
 [8a.nu height](https://chromewebstore.google.com/detail/8anu-height/oialkklcgchchhobefifjfpgbkcnhhna) - A chrome extension that fills height information on routes and boulders
@@ -51,6 +53,7 @@ Curating a list of useful climbing web/app resources
 [Bad Hardware](https://github.com/hanswebster/mountain_project_bad_hardware) - A mountain project scraper for bad hardware
 
 ## Trad Climbing
+
 
 ## Non-profits
 
