@@ -54,6 +54,7 @@ Curating a list of useful climbing web/app resources
 
 ## Trad Climbing
 
+[Egrader](https://egrader.co.uk/) - A converter from french grade with danger to E-grade to gain an impression of E-grades
 
 ## Non-profits
 
