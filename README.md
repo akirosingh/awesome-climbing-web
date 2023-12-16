@@ -22,7 +22,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# awesome-climbing
+# awesome-climbing-web
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -93,7 +93,7 @@ Curating a list of useful climbing web/app resources
 
 [Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (tension/kilter/grasshopper etc.) 
 
-[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A Map of boards across the world (Moon, Kilter, Tension, Grasshopper, Decoy, and Touchstone)
+[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (Moon, Kilter, Tension, Grasshopper, Decoy, and Touchstone)
 
 ### Moonboard 🌕
 
