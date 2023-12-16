@@ -73,7 +73,9 @@ Curating a list of useful climbing web/app resources
 
 ## Sport Climbing 🧗
 
-[Bad Hardware](https://github.com/hanswebster/mountain_project_bad_hardware) - A mountain project scraper for bad hardware
+[badbolts.com](https://badbolts.com/) - A website to submit and find bad bolts primarily within the US
+
+[Mountain Project Bad Hardware](https://github.com/hanswebster/mountain_project_bad_hardware) - A mountain project scraper for bad hardware
 
 ## Trad Climbing 🪖
 
