@@ -2,25 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Contribution Guidelines](#contribution-guidelines)
-  - [Adding an awesome list](#adding-an-awesome-list)
-  - [Creating your own awesome list](#creating-your-own-awesome-list)
-  - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-  - [Updating your Pull Request](#updating-your-pull-request)
+- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [Updating your Pull Request](#updating-your-pull-request)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Contribution Guidelines
-
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-## Adding an awesome list
-
-Please ensure your pull request adheres to the [list of guidelines](pull_request_template.md).
-
-## Creating your own awesome list
-
-To create your own list, check out the [instructions](create-list.md).
 
 ## Adding something to an awesome list
 

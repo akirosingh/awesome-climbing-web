@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [awesome-climbing](#awesome-climbing)
+- [awesome-climbing-web](#awesome-climbing-web)
 - [Outdoor 🏔️](#outdoor-)
   - [Weather 🌡️](#weather-)
   - [Bouldering 🪨](#bouldering-)
