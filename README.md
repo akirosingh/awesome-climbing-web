@@ -128,7 +128,9 @@ Curating a list of useful climbing web/app resources
 
 ## Video Analysis 🎥
 
-[Capcut](https://www.capcut.com/) - A useful mobile app to edit climbing videos
+[Capcut](https://www.capcut.com/) - A useful mobile app to edit phone videos
+
+[AscentAI](https://play.google.com/store/apps/details?id=com.jonasdeuchler.ascendai) - An Android app to analyze recorded video of climbing features include slow motion, split screen, frame-by-frame scrubbing, pose estimation and center of gravity tracking
 
 [BetaHangtime](https://betahangtime.askadam.me) - A web app to annotate hangtime on climbing videos
 
