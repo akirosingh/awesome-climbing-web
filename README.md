@@ -1,12 +1,34 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [awesome-climbing](#awesome-climbing)
+- [Outdoor 🏔️](#outdoor-)
+  - [Weather 🌡️](#weather-)
+  - [Bouldering 🪨](#bouldering-)
+  - [Sport Climbing 🧗](#sport-climbing-)
+  - [Trad Climbing 🪖](#trad-climbing-)
+  - [Non-profits 👏](#non-profits-)
+- [Indoor 🏢](#indoor-)
+  - [Board Climbing 🛹](#board-climbing-)
+    - [Moonboard 🌕](#moonboard-)
+    - [Generating moonboard problems with AI 🤖](#generating-moonboard-problems-with-ai-)
+  - [Competition Climbing 🏅](#competition-climbing-)
+  - [Industry News 📰](#industry-news-)
+- [Improving your climbing 📈](#improving-your-climbing-)
+  - [Logbook 📘](#logbook-)
+  - [Video Analysis 🎥](#video-analysis-)
+  - [Climbing Shoes 👟](#climbing-shoes-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # awesome-climbing
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Curating a list of useful climbing web/app resources
 
-# Climbing Shoes
-
-[Size Squirrel](https://sizesquirrel.com/) - A website to compare shoe sizes across different climbing brands
-
-# Outdoor 
+# Outdoor 🏔️
 
 [Mountain Project](https://www.mountainproject.com/) - A climbing app for info on climbs and online forum
 
@@ -29,7 +51,8 @@ Curating a list of useful climbing web/app resources
 [Darth Grader](https://darth-grader.net/) - A tool to help with grading routes or boulders
 
 
-## Weather
+## Weather 🌡️
+
 [Climbing Weather](https://www.climbingweather.com/) - A weather website for popular climbing areas
 
 [wetrockpolice](https://wetrockpolice.com/redrock) - A site that records precipitation data in sandstone areas
@@ -38,7 +61,7 @@ Curating a list of useful climbing web/app resources
 
 [Sendex.report](https://sendex.report/) - A web app that shows weather conditions in the red river gorge
 
-## Bouldering
+## Bouldering 🪨
 
 [Kaya](https://kayaclimb.com/) - A climbing app for guidebooks, climbing beta, and climbing community
 
@@ -46,17 +69,17 @@ Curating a list of useful climbing web/app resources
 
 [top100.dev](https://top100.dev/) - Eric Jerome's site for ranking to top 100 boulders in double digit and single digit range
 
-[Find boulders](https://github.com/pszemraj/BoulderAreaDetector) - A project to find boulders from satellite photos
+[BoulderAreaDetector](https://github.com/pszemraj/BoulderAreaDetector) - A project to find boulders from satellite photos
 
-## Sport Climbing
+## Sport Climbing 🧗
 
 [Bad Hardware](https://github.com/hanswebster/mountain_project_bad_hardware) - A mountain project scraper for bad hardware
 
-## Trad Climbing
+## Trad Climbing 🪖
 
 [Egrader](https://egrader.co.uk/) - A converter from french grade with danger to E-grade to gain an impression of E-grades
 
-## Non-profits
+## Non-profits 👏
 
 [Access Fund](https://www.accessfund.org/) - Largest climbing non-profit geared towards securing outdoor climbing access in at-risk areas
 
@@ -64,24 +87,26 @@ Curating a list of useful climbing web/app resources
 
 [Climbing for Change](https://www.climbing4change.org/) - Making connections and uplifting underserved minorities within the outdoor industry 
 
-# Indoor
+# Indoor 🏢
 
-## Board Climbing
+## Board Climbing 🛹
 
 [Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (tension/kilter/grasshopper etc.) 
 
-### Moonboard
+[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A Map of boards across the world (Moon, Kilter, Tension, Grasshopper, Decoy, and Touchstone)
+
+### Moonboard 🌕
 
 [BoardStalker](https://boardstalker.com/) - Moonboard leaderboards
 
 [Moonboard Search Engine](http://mb.timparkin.net/) - Look up moonboard problems by holds
 
-### Generating moonboard problems with AI
-[Generate Problems with AI](https://github.com/andrew-houghton/moon-board-climbing)
+### Generating moonboard problems with AI 🤖
+[Generate Problems with AI](https://ahoughton.com/moon) - A static website to display climbs generated for the Moonboard
 
-[moonGen](https://github.com/gestalt-howard/moonGen)
+[moonGen](https://github.com/gestalt-howard/moonGen) - A computer sicence project with the goal of classifying difficulty of climbing boulders on the moonboard
 
-## Competition Climbing
+## Competition Climbing 🏅
 
 [AscentStats](https://ascentstats.com/competition-climbing/) - ELO scores for IFSC competition boulderers
 
@@ -89,24 +114,24 @@ Curating a list of useful climbing web/app resources
 
 [r/CompetitionClimbing](https://www.reddit.com/r/CompetitionClimbing/) - Active subreddit for competition discussion
 
-## Industry News
+## Industry News 📰
 
 [Climbing Business Journal](https://www.climbingbusinessjournal.com/) - Indoor climbing industry news
 
-# Improving your climbing
+# Improving your climbing 📈
 
-## Logbook
+## Logbook 📘
 
-[crimpd app](https://www.crimpd.com/) A workout app to create training plans and track progression
+[crimpd app](https://www.crimpd.com/) - A workout app to create training plans and track progression
 
-[climbharder Training log](https://docs.google.com/spreadsheets/d/18hoZb5ZopO8P18SxIiz6seronM6kCGDoqss0trYo6Ms/edit#gid=1881188582) Google Sheets based comprehensive training logbook that can be copied and used as a personal log. Click 'File', then 'copy' and save it to your drive. Created by /u/D_mucli
+[climbharder Training log](https://docs.google.com/spreadsheets/d/18hoZb5ZopO8P18SxIiz6seronM6kCGDoqss0trYo6Ms/edit#gid=1881188582) - Google Sheets based comprehensive training logbook that can be copied and used as a personal log. Click 'File', then 'copy' and save it to your drive. Created by /u/D_mucli
 
-## Video Analysis
+## Video Analysis 🎥
 
 [Capcut](https://www.capcut.com/) - A useful mobile app to edit climbing videos
 
 [BetaHangtime](https://betahangtime.askadam.me) - A web app to annotate hangtime on climbing videos
 
+## Climbing Shoes 👟
 
-
-
+[Size Squirrel](https://sizesquirrel.com/) - A website to compare shoe sizes across different climbing brands
