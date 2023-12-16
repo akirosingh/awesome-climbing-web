@@ -67,7 +67,7 @@ Curating a list of useful climbing web/app resources
 
 [JustBeta](https://www.justbeta.net/) - An aggregator site for climbing boulders
 
-[top100.dev](https://top100.dev/) - Eric Jerome's site for ranking to top 100 boulders in double digit and single digit range
+[top100.dev](https://top100.dev/) - Eric Jerome's site for ranking the top 100 boulders in double digit and single digit range
 
 [BoulderAreaDetector](https://github.com/pszemraj/BoulderAreaDetector) - A project to find boulders from satellite photos
 
