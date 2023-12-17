@@ -50,6 +50,7 @@ Curating a list of useful climbing web/app resources
 
 [Darth Grader](https://darth-grader.net/) - A tool to help with grading routes or boulders
 
+[27 Crags](https://27crags.com) - An app and website for climbing topos, beta videos and ticklists
 
 ## Weather 🌡️
 
