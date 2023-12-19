@@ -97,6 +97,8 @@ Curating a list of useful climbing web/app resources
 
 [MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (Moon, Kilter, Tension, Grasshopper, Decoy, and Touchstone)
 
+[Climb Angle Meter (Android)](https://play.google.com/store/apps/details?id=com.climbangletool.climbangletool) - A purpose-built app for checking and adjusting the angle of system boards or other indoor walls. Android-only for now.
+
 ### Moonboard 🌕
 
 [BoardStalker](https://boardstalker.com/) - Moonboard leaderboards
