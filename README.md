@@ -93,9 +93,11 @@ Curating a list of useful climbing web/app resources
 
 ## Board Climbing 🛹
 
-[Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (tension/kilter/grasshopper etc.) 
+[Climbdex](https://climbdex.fly.dev/) - A search engine for interactive climbing training boards (kilter/tension/grasshopper/decoy/touchstone)
 
-[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (Moon, Kilter, Tension, Grasshopper, Decoy, and Touchstone)
+[Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (kilter/tension/grasshopper/decoy/touchstone)
+
+[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (moon/kilter/tension/grasshopper/decoy/touchstone)
 
 ### Moonboard 🌕
 
