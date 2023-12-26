@@ -50,6 +50,7 @@ Curating a list of useful climbing web/app resources
 
 [Darth Grader](https://darth-grader.net/) - A tool to help with grading routes or boulders
 
+[27 Crags](https://27crags.com) - An app and website for climbing topos, beta videos and ticklists
 
 ## Weather 🌡️
 
@@ -98,6 +99,8 @@ Curating a list of useful climbing web/app resources
 [Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (kilter/tension/grasshopper/decoy/touchstone)
 
 [MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (moon/kilter/tension/grasshopper/decoy/touchstone)
+
+[Climb Angle Meter (Android)](https://play.google.com/store/apps/details?id=com.climbangletool.climbangletool) - A purpose-built app for checking and adjusting the angle of system boards or other indoor walls. Android-only for now.
 
 ### Moonboard 🌕
 
