@@ -119,6 +119,8 @@ Curating a list of useful climbing web/app resources
 
 [IFSC Results](https://ifsc.results.info/) - Live results for IFSC sanctioned competitions
 
+[IFSC Schedule & iCal Calendar](https://ifsc.stream/) - Open source IFSC Calendar you can subscribe to using your favorite calendar app
+
 [r/CompetitionClimbing](https://www.reddit.com/r/CompetitionClimbing/) - Active subreddit for competition discussion
 
 ## Industry News 📰
