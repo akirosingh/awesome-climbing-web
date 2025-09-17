@@ -98,7 +98,7 @@ Curating a list of useful climbing web/app resources
 
 [Boardlib](https://github.com/lemeryfertitta/BoardLib) - Python library for interacting with Moonboard and Aurora boards (kilter/tension/grasshopper/decoy/touchstone)
 
-[MapfortheBoard](https://akirosingh.github.io/mapfortheboard/) - A map of public boards across the world (moon/kilter/tension/grasshopper/decoy/touchstone)
+[HangTime - Climbing Boards](https://github.com/Stevie-Ray/hangtime-climbing-boards) - Auto-updating GeoJSON dataset of climbing system board locations (moon/kilter/tension/grasshopper/decoy/touchstone).
 
 [Climb Angle Meter (Android)](https://play.google.com/store/apps/details?id=com.climbangletool.climbangletool) - A purpose-built app for checking and adjusting the angle of system boards or other indoor walls. Android-only for now.
 
