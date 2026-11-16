@@ -52,6 +52,8 @@ Curating a list of useful climbing web/app resources
 
 [27 Crags](https://27crags.com) - An app and website for climbing topos, beta videos and ticklists
 
+[Altimeter](https://altitude.hertzmc.com/) - A free web app that shows your approximate elevation from the phone's GPS, plus total climb and descent for an approach; no sign-up
+
 ## Weather 🌡️
 
 [Climbing Weather](https://www.climbingweather.com/) - A weather website for popular climbing areas
